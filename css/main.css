@@ -1,0 +1,25 @@
+nav {
+  font-family: 'Raleway', sans-serif;
+  border-bottom: 1px solid #ccc;
+  height: 50px; }
+  nav ul {
+    float: right;
+    list-style-type: none; }
+    nav ul li {
+      padding: 0px 20px;
+      display: inline;
+      color: #272e34;
+      text-transform: uppercase;
+      font-size: 12px;
+      letter-spacing: 2pt; }
+
+.pic {
+  background-image: url("https://images.unsplash.com/photo-1467010389552-c18c4d79966f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=3249da82fc006506beda65799e367bc6");
+  background-size: 100%;
+  width: 500px;
+  height: 300px;
+  float: left;
+  border: 1px solid #ccc;
+  margin: 5px 5px; }
+
+/*# sourceMappingURL=main.css.map */
